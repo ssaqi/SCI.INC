@@ -1,0 +1,97 @@
+/* Sign up from css here */
+.form-control{
+   
+   width: 120vh;
+   height: 50px;
+}
+
+
+.btn1{
+    
+   width: 170%;
+}
+
+
+label{
+
+    font-weight: 700;
+}
+
+/* 
+ResentLink Css here */
+
+.input{
+
+   width: 400px;
+}
+
+.btn2{
+
+   width: 400px;
+}
+
+.btn3{
+
+   width: 400px;
+}
+
+/* login here */
+
+.small{
+
+   color: "#36bbf7";
+   margin: 120px; 
+}
+
+
+
+@media only screen and (max-width: 720px) {
+
+   
+   .img1{
+        
+       display: none;
+    }
+
+    .btn1{
+
+        width: 110%;
+    }
+/* 
+    resent responsive here */
+ 
+  .input{
+
+       width: 340px;
+  }
+  
+
+  .input1{
+
+   width: 340px;
+}
+
+
+.btn1{
+
+      width: 340px;
+}
+
+
+.btn2{
+
+      width: 340px;
+}
+
+  /* login start here */
+
+  .btn3{
+
+   width: 340px;
+}
+.small{
+
+    margin: 0px;
+}
+
+  }
